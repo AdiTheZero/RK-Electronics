@@ -177,6 +177,7 @@ footer{
   margin: auto;
   text-align: center;
   font-family: arial;
+  /* height: 260px; */
 }
 
 .price {
